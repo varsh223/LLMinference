@@ -1,4 +1,4 @@
-# llminterface
+# llminference
 from transformers import TrainingArguments, AutoModelForCausalLM, AutoTokenizer
 from intel_extension_for_transformers.neural_chat.config import (
     ModelArguments,
